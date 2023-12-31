@@ -37,11 +37,11 @@ public class MyLinkedList{
   }
   
   public String remove(int index){
-    //Removes the element at the specified position in this list..
+    //Removes the element at the specified position in this list.
   }
   
   public boolean remove(String element){
-    //Removes the first occurrence of the specified element from this list, if it is present..
+    //Removes the first occurrence of the specified element from this list, if it is present.
   }
   
 
