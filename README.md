@@ -8,7 +8,7 @@
 
 ## Code
 
-Implement the Node and List classes. Create a Driver to test your code.
+Implement the ListNode and MyLinkedList classes. Create a Driver to test your code.
 
 ## Diagrams
 
