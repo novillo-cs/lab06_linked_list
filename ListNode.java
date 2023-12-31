@@ -5,15 +5,15 @@ public class ListNode{
   public ListNode(String d){ //default next/prev should be null
   }
   
-  public String toString(){} //Return the string of the data (matters more for other types of nodes)
+  public String toString(){} // Return the string of the data
   
-  public String getData(){} //return the data
+  public String getData(){} // Return the data
   
-  public ListNode next(){} //return the next node
+  public ListNode next(){} // Return the next node
   
-  public ListNode prev(){} //return the previous node
+  public ListNode prev(){} // Return the previous node
   
-  public String setData(String newdata){}//replace the data, with the newdata, return the original data.
+  public String setData(String newdata){}// Replace the data, with the newdata, return the original data.
   
   public void setNext(ListNode n){}
   
