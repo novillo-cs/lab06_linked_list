@@ -12,6 +12,10 @@ Implement the ListNode and MyLinkedList classes. Create a Driver to test your co
 
 ## Diagrams
 
+Save your diagrams in the folder images and then add those images to this file.
+
+ ![Linked List](images/linked_list.png?raw=true "Linked List" ) 
+
 1. An empty list
 
 **YOUR DIAGRAM HERE**
