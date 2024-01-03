@@ -23,6 +23,11 @@ public class MyLinkedList{
     return "";
   }
 
+  public String toStringReversed(){
+    //same as toString, but iterate from the back, using prev() "[C, B, A]" or "[]"
+    return "";
+  }
+  
    public void add(int index, String element){
     //Inserts the specified element at the specified position in this list.
   }
